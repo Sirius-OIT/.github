@@ -1,3 +1,3 @@
 # Sirius-Project
 Osaka Institute of Technology <br>
-Communication robot Lab <br>
+Communication robot Lab's team repositorys <br>
